@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13888" started-at="2022-10-02T14:18:03 IST" finished-at="2022-10-02T14:18:16 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13888" started-at="2022-10-02T14:18:03 IST" finished-at="2022-10-02T14:18:16 IST">
+      <class name="com.test.LoginTest2">
+        <test-method status="PASS" signature="start()[pri:0, instance:com.test.LoginTest2@d41cee]" name="start" is-config="true" duration-ms="4814" started-at="2022-10-02T14:18:03 IST" finished-at="2022-10-02T14:18:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.test.LoginTest2@d41cee]" name="loginTest" duration-ms="3342" started-at="2022-10-02T14:18:07 IST" finished-at="2022-10-02T14:18:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.test.LoginTest2 -->
+      <class name="com.test.LoginTest">
+        <test-method status="PASS" signature="start()[pri:0, instance:com.test.LoginTest@2d773b]" name="start" is-config="true" duration-ms="1795" started-at="2022-10-02T14:18:11 IST" finished-at="2022-10-02T14:18:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.test.LoginTest@2d773b]" name="loginTest" duration-ms="3898" started-at="2022-10-02T14:18:13 IST" finished-at="2022-10-02T14:18:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.test.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
